@@ -2,4 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
+requests
+camelot-py[cv]
+scikit-learn
 -e .
